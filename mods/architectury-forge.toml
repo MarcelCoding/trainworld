@@ -1,0 +1,13 @@
+name = "Architectury API (Forge)"
+filename = "architectury-1.31.59.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3752/168/architectury-1.31.59.jar"
+hash-format = "sha1"
+hash = "25902fd375369aa081dc656c4ac59412abf64242"
+
+[update]
+[update.curseforge]
+file-id = 3752168
+project-id = 419699

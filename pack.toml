@@ -1,0 +1,12 @@
+name = "Trainworld"
+version = "4.0.1"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8d9932937d5e74f4b1306174d8a36d629f73a537de7ddd7d4f8e11f74570c04e"
+
+[versions]
+forge = "36.2.34"
+minecraft = "1.16.5"
