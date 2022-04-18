@@ -311,6 +311,11 @@ hash = "798f7e8faaa313976b6941f431e44f72c55adff3873f0fbf1445ce5104ab4688"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go.toml"
+hash = "452b12c30f16e60d2de73a53ee2c79e70dca184d3711c7962723a6c12f2db20a"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.toml"
 hash = "a4d6bca8d160c82158e684d1a09f538e7ab9c76e6dee063fcd66b104b8754671"
 metafile = true
@@ -398,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/swingthroughgrass.toml"
 hash = "ff1c2527dff5f365ef0b2f68892f54308a61b6dd32c176dbeccf20f76f3c0a6d"
+metafile = true
+
+[[files]]
+file = "mods/terraforged.toml"
+hash = "23341a567ccdf8f55b2ead0839a8b47b07fa94673faf0ac9af2c0a2d3663a22a"
 metafile = true
 
 [[files]]
