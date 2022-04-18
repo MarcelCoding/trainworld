@@ -70,6 +70,11 @@ hash = "0442815c5ec493533b018dfd1962c4b8bfb97f4f6a73825fb0236f0ded49dcf8"
 metafile = true
 
 [[files]]
+file = "mods/byg-plus.toml"
+hash = "0557454b343dbfee1fe2abd4e68a959b8a660e09b1ba369c69567db0d26e4109"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.toml"
 hash = "b8fbee41a94f14e2338f47e023edbe47c1f54520c42dd1961fbbf9db0ac6b6e5"
 metafile = true
@@ -417,11 +422,6 @@ metafile = true
 [[files]]
 file = "mods/swingthroughgrass.toml"
 hash = "ff1c2527dff5f365ef0b2f68892f54308a61b6dd32c176dbeccf20f76f3c0a6d"
-metafile = true
-
-[[files]]
-file = "mods/terraforged.toml"
-hash = "23341a567ccdf8f55b2ead0839a8b47b07fa94673faf0ac9af2c0a2d3663a22a"
 metafile = true
 
 [[files]]
