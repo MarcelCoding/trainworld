@@ -51,6 +51,11 @@ hash = "a60b5c5335fc13690a73fd713dbe1f47da377e7f1a61b5351e2b518b754c70d1"
 metafile = true
 
 [[files]]
+file = "mods/better-foliage.toml"
+hash = "954e1abc46b44602ffc00da0cc3864d0d0d2bd8fa7b01c4b424e6d603162d69d"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.toml"
 hash = "d67a3fd5f36f1566488ecab3b9230b15a18ae6041e2835a74b0ce4deb41d920e"
 metafile = true
@@ -117,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.toml"
-hash = "58caf5a237175353871935ce4602681918fa8190ae418a30272b416f41858707"
+hash = "b7f3555951b203b0ac225038437745125b07deeff2b21dfd204a0889ecd5f0df"
 metafile = true
 
 [[files]]
@@ -246,6 +251,11 @@ hash = "c5eaa726d17c8c45245ecc4a6ad63d48276b137f8e960f3684c6fb7921793929"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.toml"
+hash = "1c14c9580678c3a00614e535669f88292fc234a3421c9959172b943fcb9467d6"
+metafile = true
+
+[[files]]
 file = "mods/libx.toml"
 hash = "36fed09cc0605c131b42acf4ead61011eaffc8c564484a8d25f4a42a3f44f165"
 metafile = true
@@ -287,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraftcapes-mod.toml"
-hash = "57de96064e47df0845b7ab2bf09fda1bb5864bb63d85dea6baffd576cb7bc409"
+hash = "ffa0e5b4e2bb89a6ecad145b44e5b0aa962ffdcd05431f203431c7a90766a8c4"
 metafile = true
 
 [[files]]
@@ -302,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "466641af19e51e3514a6926c2eb91107cb52b8ce2200fe732974c80ed455d0b4"
+hash = "b82323fb1f0a19e949302efbcaffc2b17ab1aa29848d561ad024b10e72a7f3ae"
 metafile = true
 
 [[files]]
