@@ -6,3 +6,6 @@
 
 packwiz
 packwiz.exe
+
+# JetBrains stuff
+.idea

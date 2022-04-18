@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/world.toml"
+hash = "0422b3b9f261ae2a0fc036aaae805d8c60b1a3f1f6e632fa31d8737b7c92eedc"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "0b3b10682f722425d219f202ad83ac189efede0c82dc8895e673910b90daad4c"
+
+[[files]]
+file = "config/zycraft-common.toml"
+hash = "e42b2e22e615bd541fd376e3ac9399480b13f2073fff656cdce84939bcafd67f"
+
+[[files]]
+file = "defaultconfigs/immersiveengineering-server.toml"
+hash = "5b1e42c2b273ee6b68b1804f95021f6feb02c4e75991d55b7d9cca8927bc825b"
+
+[[files]]
+file = "defaultconfigs/thermal-server.toml"
+hash = "29569755ef95343042d979184844291c360e5309bc9dbb86cd6e60c02624e36e"
+
+[[files]]
 file = "mods/ai-improvements.toml"
 hash = "e4f642ba4a084ee881fe88e2dff4da8882daf271f38edbe71a85456d18d0e4e6"
 metafile = true

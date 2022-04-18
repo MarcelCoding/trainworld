@@ -1,0 +1,3 @@
+[world_generation]
+	[world_generation.uranium]
+		shouldGenerate = false

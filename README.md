@@ -9,7 +9,7 @@
 
 ## Minecraft Settings
 
-We reccoment to use [OptiFine](https://optifine.net/downloads) (Minecraft Version: 1.16.5) with the following settings located at `Video Settings` -> `Performance`.
+We recommend to use [OptiFine](https://optifine.net/downloads) (Minecraft Version: 1.16.5) with the following settings located at `Video Settings` -> `Performance`.
 
 ![](.github/performance.jpg)
 

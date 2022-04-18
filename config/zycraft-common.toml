@@ -1,0 +1,4 @@
+[worldGen]
+	[worldGen.aluminium]
+		size = 0
+		amount = 0
