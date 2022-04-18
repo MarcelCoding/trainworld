@@ -5,6 +5,10 @@ file = "config/Mekanism/world.toml"
 hash = "0422b3b9f261ae2a0fc036aaae805d8c60b1a3f1f6e632fa31d8737b7c92eedc"
 
 [[files]]
+file = "config/betterfoliage-client.toml"
+hash = "be7a3ff0471924b0c254d53b13047194d1ca5df5cd54700ad3ebea755615c42a"
+
+[[files]]
 file = "config/tconstruct-common.toml"
 hash = "0b3b10682f722425d219f202ad83ac189efede0c82dc8895e673910b90daad4c"
 
