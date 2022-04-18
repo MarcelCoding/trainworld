@@ -1,0 +1,13 @@
+name = "Dark Utilities"
+filename = "DarkUtilities-1.16.5-8.0.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3753/802/DarkUtilities-1.16.5-8.0.13.jar"
+hash-format = "sha1"
+hash = "caf6cdf5224b8a4c1cb7648d7b46cef1ae9922d4"
+
+[update]
+[update.curseforge]
+file-id = 3753802
+project-id = 242195

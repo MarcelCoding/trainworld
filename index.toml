@@ -6,6 +6,11 @@ hash = "e4f642ba4a084ee881fe88e2dff4da8882daf271f38edbe71a85456d18d0e4e6"
 metafile = true
 
 [[files]]
+file = "mods/angel-ring.toml"
+hash = "f3bded31752d45f81fb959abd750cb399c4f71d1be85d8cb61cbce3e4defe0bf"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "2ba32a0deb9fac9eb2137c0cb807669d2d7464e007747dd115bf81bec480d250"
 metafile = true
@@ -18,6 +23,26 @@ metafile = true
 [[files]]
 file = "mods/attributefix.toml"
 hash = "15525736813680293b31db950dcda410989518ec42f6967619f528c81f261208"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.toml"
+hash = "a60b5c5335fc13690a73fd713dbe1f47da377e7f1a61b5351e2b518b754c70d1"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.toml"
+hash = "d67a3fd5f36f1566488ecab3b9230b15a18ae6041e2835a74b0ce4deb41d920e"
+metafile = true
+
+[[files]]
+file = "mods/botania.toml"
+hash = "0442815c5ec493533b018dfd1962c4b8bfb97f4f6a73825fb0236f0ded49dcf8"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.toml"
+hash = "b8fbee41a94f14e2338f47e023edbe47c1f54520c42dd1961fbbf9db0ac6b6e5"
 metafile = true
 
 [[files]]
@@ -46,6 +71,11 @@ hash = "27ed1b36cf13d3e0cf82f7972c6411df1c09ec6d3687733d3fb87b1dbe351a97"
 metafile = true
 
 [[files]]
+file = "mods/configured.toml"
+hash = "1cafb358ea8a10bf8947b46f101117b4fa04af9d946296d7d90453818df2776d"
+metafile = true
+
+[[files]]
 file = "mods/controlling.toml"
 hash = "55c39db77fbd539d4254a8e05016704bedfcd9a1f58694292d25a260c41b761d"
 metafile = true
@@ -56,6 +86,16 @@ hash = "96952a151cc5f530bf7732f8031f66300cd8fca5241570cb8704d8628c4722b5"
 metafile = true
 
 [[files]]
+file = "mods/curios.toml"
+hash = "06d7a52c2514494ba32779a7b31418a0f702a057780013590594639da581ed37"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.toml"
+hash = "17ed9c8a8d27c29030bdbd50cc798caae622e5906154d887f6182947aa620aa9"
+metafile = true
+
+[[files]]
 file = "mods/ding.toml"
 hash = "58caf5a237175353871935ce4602681918fa8190ae418a30272b416f41858707"
 metafile = true
@@ -63,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-surroundings.toml"
 hash = "413da0089c6546e455fe4bf8dc7b418c9e0b6ce92d76cde219140dc6f6786680"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.toml"
+hash = "15ca2129ed532ca2c01df198739f5430d332ac4293cc84fec7830c7bd5f7af7f"
 metafile = true
 
 [[files]]
@@ -131,8 +176,18 @@ hash = "161bb751902a3f8f4a8d9fb5efbdf8213692e4f2019741c909bb1b32075ab457"
 metafile = true
 
 [[files]]
+file = "mods/immersive-petroleum.toml"
+hash = "702ce9853b5bf17b23f4ec289057c3147fb6d205ffcb359eeac28f5e0a2e7feb"
+metafile = true
+
+[[files]]
 file = "mods/immersive-railroading.toml"
 hash = "9ba6fa3800a66e23df8c3f2317a4b5350287ee6a3f2fca0ce5a266d1af2ca7c8"
+metafile = true
+
+[[files]]
+file = "mods/immersiveposts.toml"
+hash = "331561c4195dcfc4f68c4a71f54bafd93d8972a32e6dc0e2c7a6d6a4bae26dae"
 metafile = true
 
 [[files]]
@@ -171,6 +226,21 @@ hash = "c5eaa726d17c8c45245ecc4a6ad63d48276b137f8e960f3684c6fb7921793929"
 metafile = true
 
 [[files]]
+file = "mods/libx.toml"
+hash = "36fed09cc0605c131b42acf4ead61011eaffc8c564484a8d25f4a42a3f44f165"
+metafile = true
+
+[[files]]
+file = "mods/mantle.toml"
+hash = "5f8aeba140167da1f80bde0713541615ad1a60fb96972d11ff8a7ff27ef8a681"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.toml"
+hash = "74ccfb939413fac45bfb8b408c1f280016951a9a77cdad73e78424ac6434e2d1"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.toml"
 hash = "0a3ab08ee13a00db218f123f936d5f06499bcd61e0cfa5ab88ddbe53b37a57d8"
 metafile = true
@@ -191,8 +261,18 @@ hash = "2d296dcf757625fbb4deb60b00fb9fb7b0d9a87a0a682a9ae760dcfd8460c568"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.toml"
+hash = "887b90c56b7e0667cc50d6fd7757fe7000cb65e005c1655aee99912999e2d371"
+metafile = true
+
+[[files]]
 file = "mods/minecraftcapes-mod.toml"
 hash = "57de96064e47df0845b7ab2bf09fda1bb5864bb63d85dea6baffd576cb7bc409"
+metafile = true
+
+[[files]]
+file = "mods/more-sound-config.toml"
+hash = "50f5b00c88f9820d03fdc33a6ca456f69a37cc3fdb2a5e2798ae022adfab416d"
 metafile = true
 
 [[files]]
@@ -216,6 +296,11 @@ hash = "a4d6bca8d160c82158e684d1a09f538e7ab9c76e6dee063fcd66b104b8754671"
 metafile = true
 
 [[files]]
+file = "mods/performant.toml"
+hash = "f6782bf9a4ae0352e7a8a224f48ee184acd6d79cee2ef06d76c0421acb47717a"
+metafile = true
+
+[[files]]
 file = "mods/placebo.toml"
 hash = "52a3a8c8c810785d1bb8d32fb95bbb9a3dc2d88f053e185396a21c83eefd3396"
 metafile = true
@@ -226,13 +311,68 @@ hash = "8054e71b0971ba0a19eabe9de33465ac1bfdb5e3562b21cbf2f44d3e60187706"
 metafile = true
 
 [[files]]
+file = "mods/quark.toml"
+hash = "ee49ae892b8d1483172b2132f30b96a3ba45d2d46ba51a2113e0aee3eb90c909"
+metafile = true
+
+[[files]]
 file = "mods/randompatches-forge.toml"
 hash = "8f72255793f7ddef6a2c773cdb2fffa0ab5947f47c97a42de51f5795a3a2776a"
 metafile = true
 
 [[files]]
+file = "mods/redstone-gauges-and-switches.toml"
+hash = "d8478c03dd395e0928bce324d6fb13b63ffa7b71385381d1761646330dd31d6b"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.toml"
+hash = "f957bd3ec58e774ed6946c027caf70032a5f70ba375e71d4a6e75908decd3381"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.toml"
+hash = "6679b8047456391ebde1076863b1e384b8f1cea41561e648a0da23452bc3a3db"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.toml"
+hash = "cf54164b7bfd93d8a0ff3f19dceafb30fcd75f6041eca4986b10a9c2bfb67de8"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.toml"
+hash = "0770bcab03b9473fa1c2f8ccfa0f5c28c146ce1dcb96e077e595dcf0863f9bcd"
+metafile = true
+
+[[files]]
+file = "mods/rftools-power.toml"
+hash = "f1e6d7151960d1dc76c518636b6c634178c40dc2a1d5f8eb4d42ec548e1ed258"
+metafile = true
+
+[[files]]
+file = "mods/rftools-storage.toml"
+hash = "48f0c97a2c36691d8cc7cfd6274affe36885be47d7d8044a6bfcfa1f142017e8"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.toml"
+hash = "f59fa1a7add433415884424ae68f62ba886b4f7f2852ca086b26cdf0ab9286ee"
+metafile = true
+
+[[files]]
 file = "mods/right-click-get-crops.toml"
 hash = "19bfc4c238ac9d6eaaf4a512d388f8d62ddde9878334ff007f14c0f0b5b09e02"
+metafile = true
+
+[[files]]
+file = "mods/runelic.toml"
+hash = "ca705a99a29164cff3b5de0cceada0d9067c902122a966d513950e4994fb6873"
+metafile = true
+
+[[files]]
+file = "mods/structurize.toml"
+hash = "63d0a913b75d5f34f2a9291859c705cfcc5517c4dbcc582c9893e4c56aa8ab02"
 metafile = true
 
 [[files]]
@@ -271,6 +411,16 @@ hash = "a0249062882eea1f8b9fb9ea0e6d9be4e8ca4c61b8f23e5f08540e62cf774056"
 metafile = true
 
 [[files]]
+file = "mods/time-in-a-bottle-standalone.toml"
+hash = "4e721bced34a7786280ac12ad80e68e00900522e9bf749945b35b92de8ec2212"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.toml"
+hash = "044d74230f70d2b13dff848bb4c9e9e6ddf1cc3333c7588dd7e10edb79d9fd5a"
+metafile = true
+
+[[files]]
 file = "mods/titanium.toml"
 hash = "8e3ca6704d3e6267d8222d90b9993ed54e50b6282db4b9f43b13addc2babf022"
 metafile = true
@@ -283,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/track-api.toml"
 hash = "5d87891c7b562f3cb69f67bd7ed69b4b3c5b509e66168ac1272387ca05942245"
+metafile = true
+
+[[files]]
+file = "mods/travel-anchors.toml"
+hash = "f10942e1001a5ecf080fbffeb4f8f870841ca69064f25c7ce680a656420ff920"
 metafile = true
 
 [[files]]
@@ -303,4 +458,24 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.toml"
 hash = "5630a136547e2e2c14a8f004d2c08d91c29986542bb97d6ec2f327b2fda72c7a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.toml"
+hash = "1e472826ab3603b35efc8bc4cebe632a24717dbdf3847473efc692502f2e75ef"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.toml"
+hash = "e56a6953f4ab8c7139a260e59423df468be709ce95786b6845a9da4db0332040"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.toml"
+hash = "a71e75017f912527c1bd43a3db12359d37a27b1976444c426ba4dc1432210cc4"
+metafile = true
+
+[[files]]
+file = "mods/zycraft.toml"
+hash = "df19340d3de3f017f51ab2a201bf28bff6ef576a279beedcd197a7111301e9cb"
 metafile = true

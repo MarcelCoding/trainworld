@@ -1,0 +1,13 @@
+name = "ZYCraft"
+filename = "ZYCraft-1.16.5-3.1.34.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3570/557/ZYCraft-1.16.5-3.1.34.jar"
+hash-format = "sha1"
+hash = "701787809ce5fbe02b6c621ef249baa3c53b7ab7"
+
+[update]
+[update.curseforge]
+file-id = 3570557
+project-id = 392055

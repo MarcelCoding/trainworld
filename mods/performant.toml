@@ -1,0 +1,13 @@
+name = "Performant"
+filename = "performant-1.16.2-5-3.93m.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3749/11/performant-1.16.2-5-3.93m.jar"
+hash-format = "sha1"
+hash = "42695b534707e4f2264336f9779fc8cbe1e15287"
+
+[update]
+[update.curseforge]
+file-id = 3749011
+project-id = 354143

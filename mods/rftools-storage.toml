@@ -1,0 +1,13 @@
+name = "RFTools Storage"
+filename = "rftoolsstorage-1.16-2.0.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3665/836/rftoolsstorage-1.16-2.0.18.jar"
+hash-format = "sha1"
+hash = "e07784299e147c1612d62c60177fe10a68ee3b9f"
+
+[update]
+[update.curseforge]
+file-id = 3665836
+project-id = 350006
