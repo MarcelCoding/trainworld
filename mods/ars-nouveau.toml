@@ -1,0 +1,13 @@
+name = "Ars Nouveau"
+filename = "ars_nouveau-1.16.5-1.24.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3757/167/ars_nouveau-1.16.5-1.24.23.jar"
+hash-format = "sha1"
+hash = "b34602bc8fbbefd020372b481fda363c6324c355"
+
+[update]
+[update.curseforge]
+file-id = 3757167
+project-id = 401955

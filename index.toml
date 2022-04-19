@@ -50,6 +50,11 @@ hash = "aa670c6cf06b51063dbc3d2e2871704113caef0dbbf9f588be39212c03b90557"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.toml"
+hash = "39b3386c6072329cc61a15361f570f96890146771a1c53d0cf678fd88f5f1678"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.toml"
 hash = "15525736813680293b31db950dcda410989518ec42f6967619f528c81f261208"
 metafile = true
@@ -197,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.toml"
 hash = "ab454689e506308546d7a1b020137d187714b5d7fb841d0d8c1c5dbcb8d659b6"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "f28c181d0b50e22605cbc5e344a9eebbd37b46aabf323eeef96044c288360943"
 metafile = true
 
 [[files]]
@@ -492,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-backpack.toml"
 hash = "0ab4330e005dc444c7112bb7ce8c30a6cfc83d6f4277bf49194637df40a3abd3"
+metafile = true
+
+[[files]]
+file = "mods/tropicraft.toml"
+hash = "2c8ce6f698d1ee4c2f07d9c4f397b6220bde5f2d2a778c81e8087626969bef70"
 metafile = true
 
 [[files]]

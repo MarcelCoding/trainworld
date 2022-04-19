@@ -1,0 +1,13 @@
+name = "Tropicraft"
+filename = "Tropicraft-9.2.0-release+90.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3606/854/Tropicraft-9.2.0-release+90.jar"
+hash-format = "sha1"
+hash = "3d1b214ab4dd0ddb9f9ab422f6ef232e8340d356"
+
+[update]
+[update.curseforge]
+file-id = 3606854
+project-id = 254794
