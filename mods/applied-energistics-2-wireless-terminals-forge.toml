@@ -1,0 +1,13 @@
+name = "Applied Energistics 2 Wireless Terminals Forge"
+filename = "ae2wtlib-0.3.3-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3634/798/ae2wtlib-0.3.3-1.16.5.jar"
+hash-format = "sha1"
+hash = "902386dc3166943a8dbe0e7f1ccba56c44a323c4"
+
+[update]
+[update.curseforge]
+file-id = 3634798
+project-id = 483310

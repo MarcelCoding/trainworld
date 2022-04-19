@@ -1,11 +1,11 @@
 name = "Trainworld"
-version = "5.0.0"
+version = "5.0.1"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "312139bc5e81c7fa7378c758ff667e795669ed62c41caacc6e41b66a353e92a0"
+hash = "2519dd7968ae57ef7dc53a87a8742f6a2b54cc04bc6e2edd7fd4b4254ed58a02"
 
 [versions]
 forge = "36.2.34"
