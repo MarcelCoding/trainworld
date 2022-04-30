@@ -13,10 +13,6 @@ file = "config/tconstruct-common.toml"
 hash = "0b3b10682f722425d219f202ad83ac189efede0c82dc8895e673910b90daad4c"
 
 [[files]]
-file = "config/zycraft-common.toml"
-hash = "e42b2e22e615bd541fd376e3ac9399480b13f2073fff656cdce84939bcafd67f"
-
-[[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "5b1e42c2b273ee6b68b1804f95021f6feb02c4e75991d55b7d9cca8927bc825b"
 
@@ -162,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/exchangers.toml"
 hash = "369ad60ae62024acd170a7469f081b7e3938b32a4b96b432b060ee33fdde2504"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.toml"
+hash = "25aef47c85a18d1f4d5f72e559786a56ca5cca319a3b5ef905cc1fee3f98b0fc"
 metafile = true
 
 [[files]]
@@ -537,9 +538,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts-forge.toml"
 hash = "a71e75017f912527c1bd43a3db12359d37a27b1976444c426ba4dc1432210cc4"
-metafile = true
-
-[[files]]
-file = "mods/zycraft.toml"
-hash = "df19340d3de3f017f51ab2a201bf28bff6ef576a279beedcd197a7111301e9cb"
 metafile = true
