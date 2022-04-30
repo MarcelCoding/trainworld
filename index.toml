@@ -371,6 +371,11 @@ hash = "8054e71b0971ba0a19eabe9de33465ac1bfdb5e3562b21cbf2f44d3e60187706"
 metafile = true
 
 [[files]]
+file = "mods/preciseblockplacing.toml"
+hash = "4110a1a4585ececdb756c7eb9fadf8af3036a58f3ef47cb46eacd0c99e7133b0"
+metafile = true
+
+[[files]]
 file = "mods/quark.toml"
 hash = "ee49ae892b8d1483172b2132f30b96a3ba45d2d46ba51a2113e0aee3eb90c909"
 metafile = true
