@@ -26,6 +26,11 @@ hash = "e4f642ba4a084ee881fe88e2dff4da8882daf271f38edbe71a85456d18d0e4e6"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.toml"
+hash = "4dfc764fd8ab27d337dc74532363cd53424612f53afd38451f91f592e70cac38"
+metafile = true
+
+[[files]]
 file = "mods/angel-ring.toml"
 hash = "f3bded31752d45f81fb959abd750cb399c4f71d1be85d8cb61cbce3e4defe0bf"
 metafile = true
@@ -118,6 +123,16 @@ metafile = true
 [[files]]
 file = "mods/controlling.toml"
 hash = "55c39db77fbd539d4254a8e05016704bedfcd9a1f58694292d25a260c41b761d"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.toml"
+hash = "d8a178cdaa583440c4a5912682b1e62127f207dfb62b5e58c4be3126032b76b8"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.toml"
+hash = "3c95fc0287843fa25db06dc5cfb7d2ea083db608c114a4c664956ca19276944c"
 metafile = true
 
 [[files]]
@@ -263,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/jei.toml"
 hash = "3f8803ed3daea9508f4617adc6435597f18df2d5ba8878951ebbbbdc841d9e61"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.toml"
+hash = "fb0ea53af643c7b9ede74533e0914df40497b0999f7d1556b76511563c55cc11"
 metafile = true
 
 [[files]]
@@ -544,3 +564,7 @@ metafile = true
 file = "mods/yungs-better-mineshafts-forge.toml"
 hash = "a71e75017f912527c1bd43a3db12359d37a27b1976444c426ba4dc1432210cc4"
 metafile = true
+
+[[files]]
+file = "scripts/00_akashic_tome.zs"
+hash = "bfb08705376f37aa2952704b704d30c904662dfaa7c4cceddf8aafaa40df0c24"
