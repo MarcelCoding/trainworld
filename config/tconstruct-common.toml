@@ -1,2 +1,5 @@
 [worldgen]
 	generateCopper = false
+
+[gameplay]
+	shouldSpawnWithTinkersBook = false
