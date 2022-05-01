@@ -1,0 +1,13 @@
+name = "All Palms are Beautiful"
+filename = "allpalmsarebeautiful-0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3773/241/allpalmsarebeautiful-0.1.jar"
+hash-format = "sha1"
+hash = "e5ab0b8c8c1c6a15ab7d2954f8b8f039d4c0c2e0"
+
+[update]
+[update.curseforge]
+file-id = 3773241
+project-id = 619119
