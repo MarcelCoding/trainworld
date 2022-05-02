@@ -1,0 +1,13 @@
+name = "New TARDIS Mod"
+filename = "Tardis-Mod-1.16.5-1.5.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3667/66/Tardis-Mod-1.16.5-1.5.4.jar"
+hash-format = "sha1"
+hash = "91e0eaf370de4e176d4277fbe251cf9175686a71"
+
+[update]
+[update.curseforge]
+file-id = 3667066
+project-id = 290247

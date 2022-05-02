@@ -5,6 +5,10 @@ file = "config/Mekanism/world.toml"
 hash = "0422b3b9f261ae2a0fc036aaae805d8c60b1a3f1f6e632fa31d8737b7c92eedc"
 
 [[files]]
+file = "config/akashictome-common.toml"
+hash = "35d2921e1e936b8ec3586b8226effbf95f26676dde7da94bade0c2af7b0180d8"
+
+[[files]]
 file = "config/ars_nouveau-common.toml"
 hash = "b43c0442d254d98993445106ef249512d590289d35ecdb85607d26313aca8331"
 
@@ -106,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/chisel.toml"
 hash = "33460c3e11632442415f328eb6f56d9803c9815b876b57138305de2595b6a2f2"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.toml"
+hash = "e3a655e225c87b358638d7f443f939cebdd02f317554a3b912ed6c80b0253140"
 metafile = true
 
 [[files]]
@@ -274,6 +283,11 @@ hash = "c63fd8121bebb8547a895c8fdb33455624fff812a538cefbbdb2b8e3422a906e"
 metafile = true
 
 [[files]]
+file = "mods/initial-inventory.toml"
+hash = "2e02092535732e577914d044301b8d64927a223a2197c9ac8b87a3eb79abf6f4"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.toml"
 hash = "09aea63e302183fd68dcb4c58e6bca09e10b90107131b404d9668a4f4165c41d"
 metafile = true
@@ -376,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.toml"
 hash = "798f7e8faaa313976b6941f431e44f72c55adff3873f0fbf1445ce5104ab4688"
+metafile = true
+
+[[files]]
+file = "mods/new-tardis-mod.toml"
+hash = "ab2d8959b470eb3f98beaffc147a5c23e0f20e9a5a2a1efa3e6b02fb83787cb3"
 metafile = true
 
 [[files]]
@@ -580,4 +599,4 @@ metafile = true
 
 [[files]]
 file = "scripts/00_akashic_tome.zs"
-hash = "bfb08705376f37aa2952704b704d30c904662dfaa7c4cceddf8aafaa40df0c24"
+hash = "c781e2c8cc45b535ded5b1c2fd99827106cbf00d5366cd3881c08e0872d7d807"

@@ -1,0 +1,13 @@
+name = "Initial Inventory"
+filename = "InitialInventory-5.0.3.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3585/907/InitialInventory-5.0.3.23.jar"
+hash-format = "sha1"
+hash = "1c23f0598c83c5b77d0d925cbc217b15544ee627"
+
+[update]
+[update.curseforge]
+file-id = 3585907
+project-id = 253230

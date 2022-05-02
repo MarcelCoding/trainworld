@@ -109,6 +109,19 @@ var fullTome = <item:akashictome:tome> .withTag(
                         Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Cooking for Blockheads I\"}]}" as string
                     }
                 }
+            },
+            tardis: {
+                id: "tardis:manual" as string,
+                Count: 1 as byte,
+                tag: {
+                    "akashictome:displayName": {
+                        text: "Manual" as string
+                    },
+                    "akashictome:is_morphing": 1 as byte,
+                    display: {
+                        Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Manual\"}]}" as string
+                    }
+                }
             }
         }
     }
