@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.toml"
-hash = "a7302bbcd50cb8ed6d701c97e826d4fe422abd3b6526255e0cb2f59a8a575fe4"
+hash = "99cf2e47d2fd3dfe6e0a4964b85df9008e77ca4948b852a59c3634088032a30c"
 metafile = true
 
 [[files]]

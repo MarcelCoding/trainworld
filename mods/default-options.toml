@@ -1,6 +1,6 @@
 name = "Default Options"
 filename = "DefaultOptions_1.16.5-12.2.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3330/403/DefaultOptions_1.16.5-12.2.1.jar"
