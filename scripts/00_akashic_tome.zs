@@ -130,7 +130,7 @@ var fullTome = <item:akashictome:tome> .withTag(
 
 mods.jei.JEI.addItem(fullTome);
 craftingTable.addShapeless("full_tome_shapeless", fullTome, [<item:minecraft:dirt>]);
-mods.initialinventory.InvHandler.addStartingItem("full_tome_starting_item", fullTome, 1);
+mods.initialinventory.InvHandler.addStartingItem("full_tome_starting_item", fullTome, 0);
 
 fullTome.addTooltip(MCTextComponent.createStringTextComponent("The tome contains all the basic manuals you'll need to get going...").setStyle(new MCStyle().setColor(<formatting:aqua>)));
 mods.jei.JEI.addDescription(fullTome, "Yo dawg, we heard you like books...",
