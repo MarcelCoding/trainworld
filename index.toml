@@ -113,11 +113,6 @@ hash = "33460c3e11632442415f328eb6f56d9803c9815b876b57138305de2595b6a2f2"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.toml"
-hash = "e3a655e225c87b358638d7f443f939cebdd02f317554a3b912ed6c80b0253140"
-metafile = true
-
-[[files]]
 file = "mods/client-tweaks.toml"
 hash = "aebc31d2697046682ca2bde51fc4c2f3d4cd0f65657d0fcfd3edb4543e7d594c"
 metafile = true
