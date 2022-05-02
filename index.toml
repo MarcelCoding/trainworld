@@ -368,6 +368,11 @@ hash = "ffa0e5b4e2bb89a6ecad145b44e5b0aa962ffdcd05431f203431c7a90766a8c4"
 metafile = true
 
 [[files]]
+file = "mods/mining-gadgets.toml"
+hash = "d981be4781ad5eeebd61f88da616a17a4158737c3fc10b1e7333b99437e99f9c"
+metafile = true
+
+[[files]]
 file = "mods/more-sound-config.toml"
 hash = "50f5b00c88f9820d03fdc33a6ca456f69a37cc3fdb2a5e2798ae022adfab416d"
 metafile = true
