@@ -17,6 +17,10 @@ file = "config/betterfoliage-client.toml"
 hash = "be7a3ff0471924b0c254d53b13047194d1ca5df5cd54700ad3ebea755615c42a"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "4ce8299a67958fbe5794d9228c21994af69f736b88ad76030fb0b027ff624984"
+
+[[files]]
 file = "config/tconstruct-common.toml"
 hash = "d4543851c9eb04472238f076318cd48c4681f7a4b2bd1909887a909aa58ad459"
 
@@ -165,6 +169,11 @@ metafile = true
 [[files]]
 file = "mods/dark-utilities.toml"
 hash = "17ed9c8a8d27c29030bdbd50cc798caae622e5906154d887f6182947aa620aa9"
+metafile = true
+
+[[files]]
+file = "mods/default-options.toml"
+hash = "a7302bbcd50cb8ed6d701c97e826d4fe422abd3b6526255e0cb2f59a8a575fe4"
 metafile = true
 
 [[files]]
