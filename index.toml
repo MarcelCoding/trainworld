@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "1cafb358ea8a10bf8947b46f101117b4fa04af9d946296d7d90453818df2776d"
+hash = "5e5e311c84c15bd861c4841dbb684df2313abe9909bd3ec56915810602b2702b"
 metafile = true
 
 [[files]]
@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "d0b1aaee6f68dd8a850d7c8ee3a0d261d41ac7517c8252782ab1f4a0fdd38e16"
+hash = "529d01a451bf8693c60cc1413984e9974f0a6098c5e3cafdfb2182a6b6bb28a6"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/right-click-get-crops.toml"
-hash = "19bfc4c238ac9d6eaaf4a512d388f8d62ddde9878334ff007f14c0f0b5b09e02"
+hash = "2694ae88f14183cc0a0555fca0e40906ed5430524daa58b95e2d962c139c1977"
 metafile = true
 
 [[files]]
