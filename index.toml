@@ -302,6 +302,11 @@ hash = "4e34ccf8624fd586e673791087f6335281edfe799e452cbd2d39a016d6d33853"
 metafile = true
 
 [[files]]
+file = "mods/jei-enchantment-info.toml"
+hash = "f8ecb9017e3b648fc92bab4c75a87b1db02672f6361c962d99ee6a54ef28dc1f"
+metafile = true
+
+[[files]]
 file = "mods/jei-integration.toml"
 hash = "b355744b4751322e467c8d92d375f228fce27a8b5b8dae3b05afc435ff4434dd"
 metafile = true
@@ -319,6 +324,21 @@ metafile = true
 [[files]]
 file = "mods/journeymap.toml"
 hash = "529d01a451bf8693c60cc1413984e9974f0a6098c5e3cafdfb2182a6b6bb28a6"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-calculation.toml"
+hash = "871be2d638227a28147af59024dc2c2639dfd91a18844d429c7daf54035e70fb"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.toml"
+hash = "6241cf2931a9b6585127c11793a2fe81727317a78377f61c02b9ffd2b89ec98d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.toml"
+hash = "5e626fbc087ce778e954b595c4d0a509f6c1035eafb05e84beaf65b02de32b67"
 metafile = true
 
 [[files]]
