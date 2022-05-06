@@ -18,7 +18,7 @@ hash = "be7a3ff0471924b0c254d53b13047194d1ca5df5cd54700ad3ebea755615c42a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "4ce8299a67958fbe5794d9228c21994af69f736b88ad76030fb0b027ff624984"
+hash = "ee5b8244fac20d04089c8e824b9a7879328e1c0a221b4f497e01a2e0a76edcda"
 
 [[files]]
 file = "config/tconstruct-common.toml"
