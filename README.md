@@ -1,5 +1,6 @@
 # Trainworld
 
+[Curseforge](https://www.curseforge.com/minecraft/modpacks/trainworld)
 
 ## Java Opts
 
