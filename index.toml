@@ -25,6 +25,10 @@ file = "config/fml.toml"
 hash = "035c0e175ed030f0ab22767cc28eaf21f805449e9502d70315ee9e97a15edc0b"
 
 [[files]]
+file = "config/simple-rpc.toml"
+hash = "21941a7251432b5f0013d5ea727918c6b48192bd98c6c570bb96d2f82c5c1497"
+
+[[files]]
 file = "config/tconstruct-common.toml"
 hash = "d4543851c9eb04472238f076318cd48c4681f7a4b2bd1909887a909aa58ad459"
 
@@ -153,11 +157,6 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.toml"
 hash = "d8a178cdaa583440c4a5912682b1e62127f207dfb62b5e58c4be3126032b76b8"
-metafile = true
-
-[[files]]
-file = "mods/craftpresence.toml"
-hash = "024287ae44dadd7230765dbf2d2289238264bfa8f3115ec8a591cbe32882f022"
 metafile = true
 
 [[files]]
@@ -528,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/runelic.toml"
 hash = "ca705a99a29164cff3b5de0cceada0d9067c902122a966d513950e4994fb6873"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.toml"
+hash = "ff10056a750497e5f880edcb3539f042264a91a0fced1498e745486751b4e9b4"
 metafile = true
 
 [[files]]
