@@ -612,6 +612,11 @@ hash = "5630a136547e2e2c14a8f004d2c08d91c29986542bb97d6ec2f327b2fda72c7a"
 metafile = true
 
 [[files]]
+file = "mods/wings.toml"
+hash = "fc2c64bc47345c80eed4d5eed3823b2223684f051fd3b111bf83eb71c66ace96"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.toml"
 hash = "1e472826ab3603b35efc8bc4cebe632a24717dbdf3847473efc692502f2e75ef"
 metafile = true

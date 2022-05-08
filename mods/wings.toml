@@ -1,0 +1,13 @@
+name = "Wings"
+filename = "wings-2.1.0-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3679/950/wings-2.1.0-1.16.5.jar"
+hash-format = "sha1"
+hash = "28053c08eb7762899615cca0c864a67c45f68e6d"
+
+[update]
+[update.curseforge]
+file-id = 3679950
+project-id = 302584
