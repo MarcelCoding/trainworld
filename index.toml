@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "9d0395547ebd3e0cf08543d98eaeeefe979729c252a2e95c799c208201d0637d"
+hash = "85e1ee0f5d7d77970dbf9af9994d8759574c37a618ff2b56d58711b030294e31"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/performant.toml"
-hash = "5522e4de1a040b7feee98964610d36842ccdf045a0387f51758ab3c8f5ed1cc7"
+hash = "f1e32568ae72d7c4b608c0444b25b80edee09e55fbc3eb523b12742dc61cd9c9"
 metafile = true
 
 [[files]]
