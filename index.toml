@@ -21,6 +21,10 @@ file = "config/defaultoptions/options.txt"
 hash = "ee5b8244fac20d04089c8e824b9a7879328e1c0a221b4f497e01a2e0a76edcda"
 
 [[files]]
+file = "config/fml.toml"
+hash = "035c0e175ed030f0ab22767cc28eaf21f805449e9502d70315ee9e97a15edc0b"
+
+[[files]]
 file = "config/tconstruct-common.toml"
 hash = "d4543851c9eb04472238f076318cd48c4681f7a4b2bd1909887a909aa58ad459"
 
@@ -152,6 +156,11 @@ hash = "d8a178cdaa583440c4a5912682b1e62127f207dfb62b5e58c4be3126032b76b8"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.toml"
+hash = "024287ae44dadd7230765dbf2d2289238264bfa8f3115ec8a591cbe32882f022"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.toml"
 hash = "3c95fc0287843fa25db06dc5cfb7d2ea083db608c114a4c664956ca19276944c"
 metafile = true
@@ -199,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/exchangers.toml"
 hash = "369ad60ae62024acd170a7469f081b7e3938b32a4b96b432b060ee33fdde2504"
+metafile = true
+
+[[files]]
+file = "mods/fairy-lights.toml"
+hash = "a69451acf4b3bea8dab9c5dc33361a1c9163ea4ded1afbfaa9c5e32bfed1ca66"
 metafile = true
 
 [[files]]
