@@ -1,2 +1,4 @@
 lang:sxu
 guiScale:3
+autoJump:false
+tutorialStep:none

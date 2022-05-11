@@ -1,0 +1,15 @@
+{
+    "modid": "tropicraft",
+    "foods": {
+        "GENERAL": [
+            "tropicraft:pina_colada"
+        ],
+        "INGREDIENTS": [
+            "tropicraft:coconut",
+            "tropicraft:pineapple",
+            "tropicraft:coconut_chunk",
+            "tropicraft:pineapple_cubes",
+            "tropicraft:bamboo_mug"
+        ]
+    }
+}

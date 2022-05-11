@@ -1,0 +1,13 @@
+name = "Global Data- & Resourcepacks"
+filename = "globaldataandresourcepacks-1.16.5-1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3558/485/globaldataandresourcepacks-1.16.5-1.10.2.jar"
+hash-format = "sha1"
+hash = "b5258b24f382e2375f30164a8a19787c5fd9b60d"
+
+[update]
+[update.curseforge]
+file-id = 3558485
+project-id = 317134

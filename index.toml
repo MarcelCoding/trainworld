@@ -18,11 +18,19 @@ hash = "be7a3ff0471924b0c254d53b13047194d1ca5df5cd54700ad3ebea755615c42a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "ee5b8244fac20d04089c8e824b9a7879328e1c0a221b4f497e01a2e0a76edcda"
+hash = "1b02e0b15f3f22f82f0ebf193625233dcc60b66f930afe8ef58e10bb15a07706"
 
 [[files]]
 file = "config/fml.toml"
 hash = "035c0e175ed030f0ab22767cc28eaf21f805449e9502d70315ee9e97a15edc0b"
+
+[[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "fe84b5e5280041810986eea3a16e86476f8aae9f92667e1e50e65d197d0ee7b3"
+
+[[files]]
+file = "config/immersiveengineering-client.toml"
+hash = "8364f36161d707910722525bda4d4c3bec06e9885d00fa019bc39869f6bec5f8"
 
 [[files]]
 file = "config/simple-rpc.toml"
@@ -35,6 +43,14 @@ hash = "d4543851c9eb04472238f076318cd48c4681f7a4b2bd1909887a909aa58ad459"
 [[files]]
 file = "config/theoneprobe-common.toml"
 hash = "ac11c04ae8e52454b2d0f21fa55cab67a1ab41bc6d22b3603f407a1d24fd8e07"
+
+[[files]]
+file = "datapacks/trainworld/data/trainworld/cookingforblockheads/compat/tropicraft.json"
+hash = "1ea358d12956af56dc2584b8e7b90b75056793d21182fae0d15ddc668d21f86e"
+
+[[files]]
+file = "datapacks/trainworld/pack.mcmeta"
+hash = "e87db97ac1eee427f1a9aba324c827a45660bcc184491ea83e4ca3e251ec4fa1"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
@@ -187,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/ding.toml"
 hash = "b7f3555951b203b0ac225038437745125b07deeff2b21dfd204a0889ecd5f0df"
+metafile = true
+
+[[files]]
+file = "mods/drp-global-datapack.toml"
+hash = "035f781d567cb587ff5bd2ca7caa29cad736167c48e616cc915db9ffb32b32b6"
 metafile = true
 
 [[files]]
@@ -445,6 +466,26 @@ hash = "452b12c30f16e60d2de73a53ee2c79e70dca184d3711c7962723a6c12f2db20a"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft-2-crops.toml"
+hash = "9bd410fba71c16b9483619cdd5a600e4307b88860b5490d6ec5fdbbf440cac6f"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.toml"
+hash = "78ee581217d324aafd9a615147e3ccf9657cf7477cea95b4a4bb4da394e29bfd"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.toml"
+hash = "7ecc80279460f32c03ce6c4e15226d0ce6635ae19a06ac93242a514348f15d55"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.toml"
+hash = "293c5b521f1a348c51063167a568dcb34ee5de4957d4399b5a609232bc14722e"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.toml"
 hash = "a4d6bca8d160c82158e684d1a09f538e7ab9c76e6dee063fcd66b104b8754671"
 metafile = true
@@ -651,4 +692,8 @@ metafile = true
 
 [[files]]
 file = "scripts/00_akashic_tome.zs"
-hash = "17c164aad3267cb19a7b270c9e184c75ef8579fdad1869fd04b9cd53b235316d"
+hash = "825c8a06e126f133b375dbe71aae70cba98cde487dff7bb856306da478f12b1a"
+
+[[files]]
+file = "scripts/01_tropicraft.zs"
+hash = "48707832071b93f27d7f4b3e0943f835f185682424b5b82e8b54ed93a3e9c319"

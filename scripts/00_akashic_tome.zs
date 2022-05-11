@@ -19,6 +19,20 @@ var fullTome = <item:akashictome:tome> .withTag(
                     }
                 }
             },
+            thermal: {
+                id: "patchouli:guide_book" as string,
+                Count: 1 as byte,
+                tag: {
+                    "akashictome:displayName": {
+                        text: "Thermalpedia" as string
+                    },
+                    "patchouli:book": "thermal:guidebook" as string,
+                    "akashictome:is_morphing": 1 as byte,
+                    display: {
+                        Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Thermalpedia\"}]}" as string
+                    }
+                }
+            },
             tconstruct: {
                 id: "tconstruct:materials_and_you" as string,
                 Count: 1 as byte,
