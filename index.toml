@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "f28c181d0b50e22605cbc5e344a9eebbd37b46aabf323eeef96044c288360943"
+hash = "1a680d976b11f6d9b4a32d54373d4d0136fb2b326bf9b0410b733764483f2bd0"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "94845ac866fe2bb1af5a4327531f9ab020bf6448c3881a779f00d7e14d9843d2"
+hash = "a61c8c27ef2e9eac20f177c5a64997ed57bedf047d01fe0f1ad08e776bc02715"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.toml"
-hash = "6679b8047456391ebde1076863b1e384b8f1cea41561e648a0da23452bc3a3db"
+hash = "676c03d3f45280236903a17a3862c6479203ec8beb3a56fe8f986480fe71f9b6"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-power.toml"
-hash = "f1e6d7151960d1dc76c518636b6c634178c40dc2a1d5f8eb4d42ec548e1ed258"
+hash = "8be232bd8e3fbefe64635de58c93944b26c6dda6cb116e3ecba78314a45a43a8"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.toml"
-hash = "ff10056a750497e5f880edcb3539f042264a91a0fced1498e745486751b4e9b4"
+hash = "0a6209a82f14c1142d1dc39e9b7d4002b99b6d672cad167887397d8193ec0126"
 metafile = true
 
 [[files]]
