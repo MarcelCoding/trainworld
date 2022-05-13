@@ -681,6 +681,11 @@ hash = "1e472826ab3603b35efc8bc4cebe632a24717dbdf3847473efc692502f2e75ef"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-caves.toml"
+hash = "586b92bf81352311e1973828083a8999c38de05b6e2f97fc4e4477780a605201"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-dungeons.toml"
 hash = "e56a6953f4ab8c7139a260e59423df468be709ce95786b6845a9da4db0332040"
 metafile = true
@@ -688,6 +693,21 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts-forge.toml"
 hash = "a71e75017f912527c1bd43a3db12359d37a27b1976444c426ba4dc1432210cc4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.toml"
+hash = "9fb184b3dbf6b2b1bd5ab7959b9fd4e34529f689d4bf02a357e723a5f0a1ded0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.toml"
+hash = "90cc14c344d6ee9affc8d4170f59f67370464bf9153e82b751cec7fe72799d1a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.toml"
+hash = "ef25f935398b8aff3cec91e81b3bad34ac35419dcb7d0d08fe72b084e820d4dd"
 metafile = true
 
 [[files]]
