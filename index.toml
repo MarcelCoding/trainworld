@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "ba233732afaaea5445b8a8889c86dfbad6d9533c3093c89443630847d7cc14d2"
+hash = "09ea7cf8a93dab05edfa76c6e449da730a270ed82054b59e4ea368151514a344"
 metafile = true
 
 [[files]]
