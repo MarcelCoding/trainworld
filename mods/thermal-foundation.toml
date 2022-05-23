@@ -3,9 +3,9 @@ filename = "thermal_foundation-1.16.5-1.5.0.14.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3788/893/thermal_foundation-1.16.5-1.5.0.14.jar"
 hash-format = "sha1"
 hash = "3b9318bbd6bbd35f10ce7928141a2e80121385fa"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

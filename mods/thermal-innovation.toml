@@ -3,9 +3,9 @@ filename = "thermal_innovation-1.16.5-1.5.0.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3788/896/thermal_innovation-1.16.5-1.5.0.4.jar"
 hash-format = "sha1"
 hash = "ec6a6081c455efbd4bfcb12f37b08e8f487edaf9"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

@@ -18,7 +18,7 @@ hash = "be7a3ff0471924b0c254d53b13047194d1ca5df5cd54700ad3ebea755615c42a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "1b02e0b15f3f22f82f0ebf193625233dcc60b66f930afe8ef58e10bb15a07706"
+hash = "5199933400fb119030b214ef241d4149c844c1a871f647c7dc7730b3a624b154"
 
 [[files]]
 file = "config/fml.toml"
@@ -62,7 +62,7 @@ hash = "29569755ef95343042d979184844291c360e5309bc9dbb86cd6e60c02624e36e"
 
 [[files]]
 file = "mods/ai-improvements.toml"
-hash = "e4f642ba4a084ee881fe88e2dff4da8882daf271f38edbe71a85456d18d0e4e6"
+hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "85e1ee0f5d7d77970dbf9af9994d8759574c37a618ff2b56d58711b030294e31"
+hash = "a1d05a23c05d39e48be0868a1505c978b42ed4acfd438160a6a479b6317d180f"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.toml"
-hash = "b391d18ba730396efc0eadb7609cb65711f575d8db1bf0397fc9bec59d74412e"
+hash = "6fc24b1360d3fa602b18ab310320eacafb8bcbf2f623e1a94273f0bb7166ab56"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "3c95fc0287843fa25db06dc5cfb7d2ea083db608c114a4c664956ca19276944c"
+hash = "dcbfac0900c79cad8c413d9af4c7bb9e7a2666271bcaaf9546a971e13686534d"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-utilities.toml"
-hash = "17ed9c8a8d27c29030bdbd50cc798caae622e5906154d887f6182947aa620aa9"
+hash = "e35762fafe435b63835a1a8f3e9dd8a3b56faf19c8edd8b3c92c5d5e656c1ce2"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "1a680d976b11f6d9b4a32d54373d4d0136fb2b326bf9b0410b733764483f2bd0"
+hash = "dca9f36f6ed042e6d5799b0eab64e76ee4d847fbfff46748d21478fcff274239"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "529d01a451bf8693c60cc1413984e9974f0a6098c5e3cafdfb2182a6b6bb28a6"
+hash = "3d1d53dc2dbafc2c685f26c7378264126514a34bbefed4e7a51998b74fd6430f"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "09ea7cf8a93dab05edfa76c6e449da730a270ed82054b59e4ea368151514a344"
+hash = "ef370ea9809ab89d59df11a329f9431ccd6d6dcedc6d3bcda7c8c81098aba839"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/performant.toml"
-hash = "f1e32568ae72d7c4b608c0444b25b80edee09e55fbc3eb523b12742dc61cd9c9"
+hash = "36e7e4332d001e5a563eccdf95ce0be4d481bf18ce44e458802618b382dd9266"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.toml"
-hash = "676c03d3f45280236903a17a3862c6479203ec8beb3a56fe8f986480fe71f9b6"
+hash = "ba9d58a28c69658e25871f11df5150dab8154eda31262e3cb8366d92a97de044"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-power.toml"
-hash = "8be232bd8e3fbefe64635de58c93944b26c6dda6cb116e3ecba78314a45a43a8"
+hash = "58f5c642b3bc3055c7f5e8f6c2a787089df063cc6d83ce2e24375610b2f37e07"
 metafile = true
 
 [[files]]
@@ -572,12 +572,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.toml"
-hash = "0a6209a82f14c1142d1dc39e9b7d4002b99b6d672cad167887397d8193ec0126"
+hash = "2827e758fe7c5e4647d3c7cbe24147b8a8b67de6405bc1b939412df0a58b30ce"
 metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "63d0a913b75d5f34f2a9291859c705cfcc5517c4dbcc582c9893e4c56aa8ab02"
+hash = "31e65d793c02bdf57545c54d42d9adaedee9081bc97e999a1ff972957943824d"
 metafile = true
 
 [[files]]
@@ -592,27 +592,27 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-cultivation.toml"
-hash = "d3621f77e41a47dae53c7e96eb871229cc07f123aba47016fa02f8178350b7d7"
+hash = "7314837dabec3633dfec3677d285544f99e2a506efc62d66445af5f3c6f00457"
 metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.toml"
-hash = "a81e13fab8908cffb2c5a18842b5dde07380f56005699b4a10792d51208f21c2"
+hash = "25e36d9319b5d7449dada0003bc8ae6582767087656e1b2b208de4caa3ff0329"
 metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.toml"
-hash = "bf125bb464d269ed818886ebc90cbf78bb8eb5aeaeab441d2c58f736993addb0"
+hash = "f80c3917f5d6b3299a8d2a969ef308bc1676f533f57490c5feaa2a79fc41ca49"
 metafile = true
 
 [[files]]
 file = "mods/thermal-innovation.toml"
-hash = "ea0803de098cd2398ec443300c3fc9594fec34223f7d9e047ef2ba7d799e8f0f"
+hash = "a3621594125d58ad2af30a2d2c721ca43ce504c251e9dce3022ae427fc2cd73a"
 metafile = true
 
 [[files]]
 file = "mods/thermal-locomotion.toml"
-hash = "ccb5215ac9aa85e722f2ac05afd6c7394a86730990b28b5594b58d637054fe60"
+hash = "dd539e79ef18e323e8ac996c19e2b85509c1c70aa91e08906fe8fee074bc8394"
 metafile = true
 
 [[files]]
@@ -683,7 +683,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-caves.toml"
 hash = "586b92bf81352311e1973828083a8999c38de05b6e2f97fc4e4477780a605201"
-metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.toml"
@@ -698,21 +697,23 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.toml"
 hash = "9fb184b3dbf6b2b1bd5ab7959b9fd4e34529f689d4bf02a357e723a5f0a1ded0"
-metafile = true
 
 [[files]]
 file = "mods/yungs-bridges.toml"
 hash = "90cc14c344d6ee9affc8d4170f59f67370464bf9153e82b751cec7fe72799d1a"
-metafile = true
 
 [[files]]
 file = "mods/yungs-extras.toml"
 hash = "ef25f935398b8aff3cec91e81b3bad34ac35419dcb7d0d08fe72b084e820d4dd"
+
+[[files]]
+file = "resourcepacks/voxel-trains-ir.pw.toml"
+hash = "368b30d7b1961b9912154b73a45fbcd7000c8eed9186e5e239b1ca3b85b521bb"
 metafile = true
 
 [[files]]
 file = "scripts/00_akashic_tome.zs"
-hash = "825c8a06e126f133b375dbe71aae70cba98cde487dff7bb856306da478f12b1a"
+hash = "e3bab9020510dbb98df37a92fd7dc1f8b35dae08758f9123a98e42d197e19c31"
 
 [[files]]
 file = "scripts/01_tropicraft.zs"

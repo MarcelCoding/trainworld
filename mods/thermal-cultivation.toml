@@ -3,9 +3,9 @@ filename = "thermal_cultivation-1.16.5-1.5.0.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3788/891/thermal_cultivation-1.16.5-1.5.0.4.jar"
 hash-format = "sha1"
 hash = "b3cb2313b7bfe05474052ab01507f2910bc69aa3"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

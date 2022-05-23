@@ -98,6 +98,19 @@ var fullTome = <item:akashictome:tome> .withTag(
                     }
                 }
             },
+            immersiveengineering: {
+                id: "immersiveengineering:manual" as string,
+                Count: 1 as byte,
+                tag: {
+                    "akashictome:displayName": {
+                        text: "Engineer's Manual" as string
+                    },
+                    "akashictome:is_morphing": 1 as byte,
+                    display: {
+                        Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Engineer's Manual\"}]}" as string
+                    }
+                }
+            },
             immersiverailroading: {
                 id: "immersiverailroading:item_manual" as string,
                 Count: 1 as byte,

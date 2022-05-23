@@ -3,9 +3,9 @@ filename = "thermal_locomotion-1.16.5-1.5.0.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3788/895/thermal_locomotion-1.16.5-1.5.0.4.jar"
 hash-format = "sha1"
 hash = "c2f0b9bef4680ca444ffc362be5484d4656ef46a"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

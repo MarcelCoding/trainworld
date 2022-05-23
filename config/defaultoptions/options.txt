@@ -2,3 +2,4 @@ lang:sxu
 guiScale:3
 autoJump:false
 tutorialStep:none
+resourcePacks:["inmemory:jaopca","vanilla","mod_resources","quark:emote_resources","file/Trainworld Resource Pack.zip", "file/Voxel Trains 4.zip"]
