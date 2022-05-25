@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "8e440061bcfa504c56362cf49b14aa34e28fd7f195932f181160ee4674d19b9c"
+
+[[files]]
 file = "config/Mekanism/world.toml"
 hash = "0422b3b9f261ae2a0fc036aaae805d8c60b1a3f1f6e632fa31d8737b7c92eedc"
 
@@ -91,8 +95,8 @@ hash = "2ba32a0deb9fac9eb2137c0cb807669d2d7464e007747dd115bf81bec480d250"
 metafile = true
 
 [[files]]
-file = "mods/architectury-forge.toml"
-hash = "a1d05a23c05d39e48be0868a1505c978b42ed4acfd438160a6a479b6317d180f"
+file = "mods/architectury-api.pw.toml"
+hash = "d5009b93af987a96e479220e6cc680f0cce971bf7015854a76c27b79d4db5eb0"
 metafile = true
 
 [[files]]
@@ -576,8 +580,8 @@ hash = "2827e758fe7c5e4647d3c7cbe24147b8a8b67de6405bc1b939412df0a58b30ce"
 metafile = true
 
 [[files]]
-file = "mods/structurize.toml"
-hash = "31e65d793c02bdf57545c54d42d9adaedee9081bc97e999a1ff972957943824d"
+file = "mods/structurize.pw.toml"
+hash = "eb08b52e0d7a14bfa6f0850548d64c32d95efa5917ec538f8099ae5fa4b2ee2b"
 metafile = true
 
 [[files]]
@@ -717,4 +721,4 @@ hash = "e3bab9020510dbb98df37a92fd7dc1f8b35dae08758f9123a98e42d197e19c31"
 
 [[files]]
 file = "scripts/01_tropicraft.zs"
-hash = "48707832071b93f27d7f4b3e0943f835f185682424b5b82e8b54ed93a3e9c319"
+hash = "f00e04bb94d1bd6af8b4dd4a2488bf57ec090692cbb771306d74e84db2a87581"
