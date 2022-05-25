@@ -1,9 +1,3 @@
-//
-// © 2022 TKFRvision (https://github.com/TKFRvisionOfficial)
-// All Rights Reserved
-//
-
-
 /*
     Tropicraft is an awesome mod. Sadly it is not designed to work in an modpack at all.
     I am trying to cure some of the symptoms here but the problems is way deeper
